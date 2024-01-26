@@ -1,2 +1,2 @@
 # MLP_Optimization
-MLP Model in Keras with KFold 
+Classification with MLP Model
